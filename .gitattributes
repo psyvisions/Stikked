@@ -1,1 +1,5 @@
-* -text
+*.txt  	text
+*.vcproj	eol=crlf
+*.sh		eol=lf
+*.jpg		-text
+*.php  	-text
